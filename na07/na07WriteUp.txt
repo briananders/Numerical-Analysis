@@ -1,0 +1,5 @@
+you'll see that on my last graph, I have graphed the error points. They seem to form two 
+really nice curves. One has all the odd i's and one has all the even i's.
+before 5, odd i's have less error, and after 5, evens i's have less error.
+also, 8 has the lowest error. on either side the error goes up. on the higher end (i, from 15 on),
+the error goes up a LOT more. the even i's are quite a bit lower than the odds, but they are still high.

@@ -1,0 +1,3 @@
+both matrices had an answer. Matrix made up of floating values ended up being whole numbers and the matrix made up of whole numbers ended up being all decimals.
+
+i guess i'm confused about the output. so my program just uses printAugMat(a,b) to print the solved augmented matrix. my output doesn't match the output on the problem because it isn't clear to me what i am trying to accomplish in the output other than just finding the answer using gaussian elimination.
